@@ -3,12 +3,6 @@
 <h3 align="center">MERN Stack Developer specializing in Front End Development from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkr83&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkr83" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamkr83" alt="shubhamkr83" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/krshubhamdev" target="blank"><img src="https://img.shields.io/twitter/follow/krshubhamdev?logo=twitter&style=for-the-badge" alt="krshubhamdev" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/@shubhamkr83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@shubhamkr83" height="30" width="40" /></a>
