@@ -15,13 +15,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <ul>
-  <li>HTML</li>
-  <li>HTML</li>
-  <li>HTML</li>
-  <li>HTML</li>
-  <li>HTML</li>
-  <li>HTML</li>
-  <li>HTML</li>
+  <p>HTML</p> <p>HTML</p> <p>HTML</p> <p>HTML</p>
 </ul>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamkr83&show_icons=true&locale=en&layout=compact" alt="shubhamkr83" /></p>
 
