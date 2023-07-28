@@ -1,3 +1,5 @@
+![1690542180591](https://github.com/shubhamkr83/shubhamkr83/assets/72254047/fdd19608-115b-4135-82ca-e89a285bc941)
+
 # 💫 About Me:
 I am a Computer Technology student who recently graduated from Priyadarshini College of Engineering Nagpur with a Bachelor of Engineering degree. Throughout my studies, I have gained proficiency in JAVA Programming and MERN Stack development. I also had the opportunity to acquire 2 months of industry experience in AliGn InfoTech Company at Nagpur, where I further enhanced my skills in HTML, CSS, JavaScript, ReactJS, NodeJS, ExpressJS, and MongoDB.
 
