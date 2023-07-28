@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
-<h3 align="center">I am a Computer Science student, JAVA developer and also a MERN Stack Developer having specialization in Front-End.</h3>
+<h3 align="center">I am a Computer Science student, JAVA developer, and a MERN Stack Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h3 align="left">Connect with me:</h3>
