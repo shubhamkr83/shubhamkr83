@@ -1,7 +1,13 @@
 ![1690542180591](https://github.com/shubhamkr83/shubhamkr83/assets/72254047/fdd19608-115b-4135-82ca-e89a285bc941)
 
 # 💫 About Me:
-I am a Computer Technology student who recently graduated from Priyadarshini College of Engineering Nagpur with a Bachelor of Engineering degree. Throughout my studies, I have gained proficiency in JAVA Programming, MERN Stack development, and Native Application Development. I also had the opportunity to acquire 2 months of industry experience in AliGn InfoTech Company in Nagpur. In recognition of my programming skills, I achieved the Silver level with 238 points at HackerRank, showcasing my problem-solving abilities. Moreover, I participated in and contributed to open-source programs.
+As a Computer Technology student at Rashtrasant Tukadoji Maharaj Nagpur University, I am passionate about learning and applying cutting-edge technologies in web development. I am expected to graduate with a Bachelor of Engineering degree in Aug 2023.
+
+I have gained hands-on experience in Full Stack Development using the MERN Stack, as well as other technologies like Tailwind CSS, SASS, Strapi, and Visual Studio Code. I contributed to creating and migrating web pages for an Online Education Website at AliGn InfoTech, where I worked for 2 months as a Full Stack Developer. I improved the user experience by building a responsive web application and using Axios for API calls.
+
+Additionally, I have demonstrated my problem-solving and programming skills by achieving the Silver level with 238 points at HackerRank and participating in open-source programs like HactoberFest, where I solved 4 issues and emerged as a winner. I also have a keen interest in blockchain technology and its potential applications.
+
+My goal is to further develop my Full Stack skills and explore new opportunities in web development, where I can leverage my creativity, curiosity, and collaboration to create impactful and innovative solutions.
 
 
 ## 🌐 Socials:
