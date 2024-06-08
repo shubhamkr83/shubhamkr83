@@ -1,18 +1,7 @@
 ![1690542180591](https://github.com/shubhamkr83/shubhamkr83/assets/72254047/fdd19608-115b-4135-82ca-e89a285bc941)
 
 # 💫 About Me:
-As a seasoned Quality Assurance Executive with extensive experience at Bizup Gurugram, I have demonstrated a strong ability to enhance product quality through rigorous testing methodologies and innovative solutions. My tenure has been marked by significant achievements in bug resolution, testing efficiency, and collaboration with cross-functional teams. 
-
-- **Bug Resolution & Testing Expertise**: I have successfully reported and resolved over 1200+ bugs across various products, ensuring high-quality standards are met. My role involved conducting comprehensive end-to-end and regression testing for every product release, alongside executing functional testing for new features to guarantee adherence to all specifications.
-
-- **Collaboration & Impact**: Working closely with development and product teams, I played a pivotal role in resolving bug issues, which led to a remarkable reduction in user interface problems by 60%. This collaborative approach not only improved product reliability but also fostered a culture of shared responsibility towards quality assurance.
-
-- **Automation & Efficiency**: Leveraging my programming skills, I automated test scripts, significantly reducing manual testing efforts by 30%. This initiative not only streamlined the testing process but also allowed for faster detection and resolution of issues. Additionally, I developed and automated the Android app's automation framework from scratch, showcasing my capability to design and implement complex testing frameworks.
-
-- **Product Launches & Technology Proficiency**: Under my assurance, we launched 2 major products, highlighting my contribution to bringing robust and reliable solutions to market. My technology stack includes Java, Appium, Jira, Figma, Microsoft Clarity, and Black Box Testing, reflecting my versatility and adaptability in employing cutting-edge tools and methodologies to achieve testing objectives.
-
-This profile summarizes my professional journey at Bizup Gurugram, emphasizing my commitment to excellence, innovation, and teamwork in the field of quality assurance.
-
+As a Quality Assurance Executive at Bizup Gurugram since September 2023, I have demonstrated exceptional skills in identifying and resolving over 1200+ bugs across various products, significantly enhancing product quality. My responsibilities encompass conducting comprehensive end-to-end and regression testing for every product release, executing functional testing for new features to ensure adherence to specifications, and collaborating closely with development and product teams to address bug issues efficiently. This collaboration has resulted in a notable reduction in user interface problems by 60%. Leveraging my programming expertise, I have automated test scripts, thereby reducing manual testing efforts by 30%, and developed an automation framework from scratch for the Android app. Additionally, I have played a pivotal role in launching 2 major products under my assurance, employing technologies such as Java, Appium, Jira, Figma, Microsoft Clarity, and Black Box Testing.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shubham-kumar836) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/KrShubhamDev) 
