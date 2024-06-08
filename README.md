@@ -1,13 +1,17 @@
 ![1690542180591](https://github.com/shubhamkr83/shubhamkr83/assets/72254047/fdd19608-115b-4135-82ca-e89a285bc941)
 
 # 💫 About Me:
-As a Computer Technology student at Rashtrasant Tukadoji Maharaj Nagpur University, I am passionate about learning and applying cutting-edge technologies in web development. I am expected to graduate with a Bachelor of Engineering degree in Aug 2023.
+As a seasoned Quality Assurance Executive with extensive experience at Bizup Gurugram, I have demonstrated a strong ability to enhance product quality through rigorous testing methodologies and innovative solutions. My tenure has been marked by significant achievements in bug resolution, testing efficiency, and collaboration with cross-functional teams. 
 
-I have gained hands-on experience in Full Stack Development using the MERN Stack, as well as other technologies like Tailwind CSS, SASS, Strapi, and Visual Studio Code. I contributed to creating and migrating web pages for an Online Education Website at AliGn InfoTech, where I worked for 2 months as a Full Stack Developer. I improved the user experience by building a responsive web application and using Axios for API calls.
+- **Bug Resolution & Testing Expertise**: I have successfully reported and resolved over 1200+ bugs across various products, ensuring high-quality standards are met. My role involved conducting comprehensive end-to-end and regression testing for every product release, alongside executing functional testing for new features to guarantee adherence to all specifications.
 
-Additionally, I have demonstrated my problem-solving and programming skills by achieving the Silver level with 238 points at HackerRank and participating in open-source programs like HactoberFest, where I solved 4 issues and emerged as a winner. I also have a keen interest in blockchain technology and its potential applications.
+- **Collaboration & Impact**: Working closely with development and product teams, I played a pivotal role in resolving bug issues, which led to a remarkable reduction in user interface problems by 60%. This collaborative approach not only improved product reliability but also fostered a culture of shared responsibility towards quality assurance.
 
-My goal is to further develop my Full Stack skills and explore new opportunities in web development, where I can leverage my creativity, curiosity, and collaboration to create impactful and innovative solutions.
+- **Automation & Efficiency**: Leveraging my programming skills, I automated test scripts, significantly reducing manual testing efforts by 30%. This initiative not only streamlined the testing process but also allowed for faster detection and resolution of issues. Additionally, I developed and automated the Android app's automation framework from scratch, showcasing my capability to design and implement complex testing frameworks.
+
+- **Product Launches & Technology Proficiency**: Under my assurance, we launched 2 major products, highlighting my contribution to bringing robust and reliable solutions to market. My technology stack includes Java, Appium, Jira, Figma, Microsoft Clarity, and Black Box Testing, reflecting my versatility and adaptability in employing cutting-edge tools and methodologies to achieve testing objectives.
+
+This profile summarizes my professional journey at Bizup Gurugram, emphasizing my commitment to excellence, innovation, and teamwork in the field of quality assurance.
 
 
 ## 🌐 Socials:
