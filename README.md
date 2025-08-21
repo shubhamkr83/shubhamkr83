@@ -1,21 +1,21 @@
 ![1690542180591](https://github.com/shubhamkr83/shubhamkr83/assets/72254047/fdd19608-115b-4135-82ca-e89a285bc941)
 
 # 💫 About Me:
-QA Automation Engineer with hands-on experience in manual & automated testing for Web, Android, and API platforms.
+• QA Automation Engineer with hands-on experience in manual & automated testing for Web, Android, and API platforms.
 
-Resolved 1200+ bugs and contributed to a 60% reduction in UI issues through structured testing and collaboration with dev/product teams.
+• Resolved 1200+ bugs and contributed to a 60% reduction in UI issues through structured testing and collaboration with dev/product teams.
 
-Built a custom Android automation framework (Java, Appium, TestNG), reducing manual efforts by 30%.
+• Built a custom Android automation framework (Java, Appium, TestNG), reducing manual efforts by 30%.
 
-Ensured zero critical bugs in flagship product releases, driving 20% revenue growth.
+• Ensured zero critical bugs in flagship product releases, driving 20% revenue growth.
 
-Designed and executed end-to-end, regression, and functional testing strategies for cross-platform products.
+• Designed and executed end-to-end, regression, and functional testing strategies for cross-platform products.
 
-Developed automation frameworks with Playwright, Selenium, Appium, and optimized CI/CD pipelines via Jenkins, reducing deployment time by 25%.
+• Developed automation frameworks with Playwright, Selenium, Appium, and optimized CI/CD pipelines via Jenkins, reducing deployment time by 25%.
 
-Strong expertise in API automation (Postman, data-driven testing, CI/CD integration with AWS S3 & Google Chat alerts).
+• Strong expertise in API automation (Postman, data-driven testing, CI/CD integration with AWS S3 & Google Chat alerts).
 
-Passionate about delivering high-quality, scalable, and efficient testing solutions that enhance user experience.
+• Passionate about delivering high-quality, scalable, and efficient testing solutions that enhance user experience.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shubham-kumar836) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/KrShubhamDev) 
