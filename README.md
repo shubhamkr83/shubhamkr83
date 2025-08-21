@@ -1,4 +1,6 @@
-![1690542180591](https://github.com/shubhamkr83/shubhamkr83/assets/72254047/fdd19608-115b-4135-82ca-e89a285bc941)
+
+![1719131671602](https://github.com/user-attachments/assets/3e7c3887-700e-47fa-8180-9f07213c57ba)
+
 
 # 💫 About Me:
 • QA Automation Engineer with hands-on experience in manual & automated testing for Web, Android, and API platforms.
